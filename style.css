@@ -1,0 +1,38 @@
+body {height:100%;
+    width:100%;
+    background-color: #e6e1dd;
+    border: 10px solid yellow;
+}
+.header1 {
+    font: italic 50px Algerian, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+.header2 {font-size: 30px;}
+.woline {
+    text-decoration: none;
+    color: black;
+    border: 2px solid rgb(27, 182, 187);
+    border-radius: 6px;
+    background-color: #e6e1dd;
+}
+.background1 {
+    background-color: yellow;
+    height: 30px;
+    padding: 10px 50px 0 50px;
+    text-align: right;
+}
+.background2 {
+    background-color: yellow;
+    padding: 10px 50px 0 50px;
+    text-align: right;
+    width: 100%;
+}
+.round {
+    border-radius: 100px;
+    border: 5px solid rgb(27, 182, 187);
+   }
+.table {
+    width: 100%;
+    padding: 10px;
+}
